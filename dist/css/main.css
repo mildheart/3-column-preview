@@ -135,6 +135,9 @@ button:active {
   }
 }
 @media screen and (min-width: 483px) {
+  body {
+    padding: 20px;
+  }
   .main_container {
     height: 65vh;
     width: 70%;
