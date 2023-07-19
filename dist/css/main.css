@@ -150,15 +150,24 @@ button:active {
     border-bottom-right-radius: 10px;
   }
   p {
-    font-size: 15px;
+    font-size: 16px;
   }
 }
 @media screen and (min-width: 769px) {
   .main_container {
-    height: 360px;
+    height: 380px;
+    width: 80%;
+  }
+  p {
+    font-size: 14px;
+  }
+}
+@media screen and (min-width: 1025px) {
+  .main_container {
+    height: 400px;
     width: 70%;
   }
   p {
-    font-size: 13px;
+    font-size: 16px;
   }
 }/*# sourceMappingURL=main.css.map */
